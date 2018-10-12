@@ -4,4 +4,4 @@ services:
       server:
         host: localhost
         port: 27017
-      database: WeText_Accounts
+      database: WeText_Accounts1
